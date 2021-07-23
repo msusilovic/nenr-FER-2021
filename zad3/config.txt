@@ -1,4 +1,0 @@
-java -jar /home/martina/nenr/lab3/out/artifacts/lab3_jar/lab3.jar
-3
-20
-10
